@@ -1,4 +1,4 @@
-# Linq To Objective-C
+# Linq To Objective-C X
 
 Bringing a Linq-style fluent query API to Objective-C.
 
